@@ -107,7 +107,7 @@ those restrictive terms and conditions.
 The initial exercise and ingredient data is licensed additionally under one of
 the Creative Commons licenses, see the individual exercises for more details.
 
-<h2>💖Like my work?</h2>
+<h2>💖Like our work?</h2>
 
 If you like what we do here at WGER feel free to sponsor us on Github Sponsors
 
