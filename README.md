@@ -9,7 +9,10 @@
 
 <h2>🚀 Promo</h2>
 
-https://user-images.githubusercontent.com/83128918/193403621-30edc0f1-b9ca-4d45-91d8-1b8fe3dc8ba6.mp4
+h
+
+https://user-images.githubusercontent.com/83128918/193412644-b0af4d1a-8912-4e8b-9110-881001b28710.mp4
+
 
 
 <h2>Project Screenshots</h2>
